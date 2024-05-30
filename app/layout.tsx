@@ -9,7 +9,7 @@ import 'react-datepicker/dist/react-datepicker.css'
 import { Toaster } from "@/components/ui/toaster";
 
 const inter = Inter({ subsets: ["latin"] });
-
+// metadata
 export const metadata: Metadata = {
   title: "Stream",
   description: "Video Conferencing App",
