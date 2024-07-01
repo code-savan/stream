@@ -92,7 +92,7 @@ const MeetingTypeList = () => {
         title="Schedule Meeting"
         description="Plan your meeting"
         handleClick={() => setMeetingState("isScheduleMeeting")}
-        className="bg-blue-1"
+        className="bg-red-1"
       />
 
       <HomeCard
